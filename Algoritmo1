@@ -1,0 +1,5 @@
+solicitar lista com dois numeros
+inicializar a variavel SOMA com 0
+para cada numero da lista faça
+adicione o numero a variavel SOMA
+escreva o valor de SOMA
