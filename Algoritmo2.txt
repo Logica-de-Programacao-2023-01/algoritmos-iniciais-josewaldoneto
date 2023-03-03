@@ -1,0 +1,7 @@
+1. leia x
+2. escreva "Qual medida de temperatura? [C/K]
+3. se C faça x/5=(y-32)/9
+4. escreva y
+5. se K faça y/5=(x-32)/9
+6. escreva y
+
