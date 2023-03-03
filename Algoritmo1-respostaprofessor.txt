@@ -1,0 +1,4 @@
+1. leia X
+2. leia Y
+3. z = x + y
+4. escreva z
