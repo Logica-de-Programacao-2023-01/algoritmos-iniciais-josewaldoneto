@@ -1,0 +1,6 @@
+leia lista de numeros
+faça var MEDIA = 0
+para cada numero na lista:
+	leia o valor e adicione em MEDIA
+divida o valor de MEDIA pela quantidade ve numeros na lista
+escreva o valor de MEDIA
